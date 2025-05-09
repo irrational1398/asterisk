@@ -1,5 +1,5 @@
-#ifndef CURSED_CPP
-#define CURSED_CPP
+#ifndef CURSED_HPP
+#define CURSED_HPP
 
 #include <cstring>
 #include <cstdint>
@@ -117,4 +117,4 @@ private:
   ArrayBuffer &buffer;
 }
 
-#endif //CURSED_CPP
+#endif //CURSED_HPP
